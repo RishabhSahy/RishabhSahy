@@ -61,8 +61,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishabhSahy&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhSahy&layout=compact&theme=radical&hide_border=true" width="48%" alt="Most Used Languages" />
+  <a href="https://github.com/RishabhSahy" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=RishabhSahy&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/RishabhSahy" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhSahy&layout=compact&theme=radical&hide_border=true" width="48%" alt="Most Used Languages" />
+  </a>
 </div>
 
 <h3 align="center">
@@ -75,10 +79,10 @@
   <a href="https://www.linkedin.com/in/rishabh-sahu-139389282/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rishabhsahu139389@gmail.com">
+  <a href="mailto:rishabhsahy@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://github.com/RishabhSahy">
+  <a href="https://github.com/RishabhSahy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
