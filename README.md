@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/C%23-6E4C9B?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=efcore&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RepoDB-1182c3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -62,11 +62,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RishabhSahy&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RishabhSahy&theme=radical&hide_border=true" width="48%" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabhSahy&theme=github-compact&hide_border=true" width="90%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhSahy&layout=compact&theme=radical&hide_border=true" width="48%" alt="Most Used Languages" />
 </div>
 
 <h3 align="center">
@@ -94,4 +90,3 @@
 <h3 align="center">
   💬 “Every expert was once a beginner. Stay curious, keep building.” 💬
 </h3>
-
