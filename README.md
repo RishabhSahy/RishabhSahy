@@ -1,7 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rishabh+Sahu!;+ Software + Developer!;" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rishabh+Sahu!;+Software+Developer!;" alt="Typing SVG">
 </h1>
 
 <h3 align="center">🚀 .NET Developer | Corporate Intern | Lifelong Learner</h3>
