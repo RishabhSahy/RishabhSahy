@@ -24,7 +24,7 @@
 
 </div>
 
-- 💻 I’m a **Software Developer Intern** working with the **.NET stack**  
+- 💻 I’m a **Software Developer** working with the **.NET stack**  
 - 🧠 Skilled in **C#, .NET Core, SQL Server, HTML, CSS, JavaScript, jQuery, Bootstrap, TailwindCSS**  
 - 🌱 Exploring **React, Python, and Java** for broader skill development  
 - 🚀 Eager to learn, grow, and build impactful software solutions  
