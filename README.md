@@ -29,7 +29,7 @@
 - 🌱 Exploring **React, Python, and Java** for broader skill development  
 - 🚀 Eager to learn, grow, and build impactful software solutions  
 - 🤝 Open to **collaboration, networking, and mentorship opportunities**  
-- 🎯 Goal: To become a **well-rounded full-stack .NET developer**
+- 🎯 Goal: To become a **well-rounded full-stack developer**
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
